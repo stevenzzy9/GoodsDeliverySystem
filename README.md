@@ -1,3 +1,3 @@
-CS 744 Project
+Project
 
 Goods Delivery System
